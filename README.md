@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Open source**
 
-- 👨‍💻 All of my projects are available at [abhijeetkujur.com](abhijeetkujur.com)
-
 - 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **abhijeetkujur000@gmail.com**
