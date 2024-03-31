@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhijeetkujur000@gmail.com**
 
-- 📄 Know about my experiences [https://www.abhijeetkujur.com](abhijeetkujur.com)
+- 📄 Know about my experiences <a href="https://www.abhijeetkujur.com" target="blank">abhijeetkujur.com</a>
 
 - ⚡ Fun fact **I play Drums**
 
