@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet John Kujur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **social media app**
+- 🔭 I’m currently working on **apps with Nextjs**
 
 - 🌱 I’m currently learning **React.js, Next.js, Node, Mongo db (In Depth)**
 
